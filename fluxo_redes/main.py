@@ -1,3 +1,8 @@
+# Fellipe Machado Castro - 202104940018
+# Luiz Mateus Pereira da Conceição - 202104940003
+
+#Github: https://github.com/fellipecastro7/ford_fulkerson
+
 from grafo_rede_fluxo import GrafoRedeFluxo, Aresta
 from ford_fulkerson import FordFulkerson
 
